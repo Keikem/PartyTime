@@ -4,6 +4,6 @@
 
     <!-- Party screen -->
     <string name="party_title">Party</string>
-    <string name="party_invite">Invited by:</string>
+    <string name="party_invite">Invited by:\u0020</string>
     <string name="party_withyou">Come with you:</string>
 </resources>
