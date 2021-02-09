@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Party screen -->
+    <string name="party_title">Вечеринка</string>
+    <string name="party_invite">Пригласил(а):\u0020</string>
+    <string name="party_withyou">С Вами придут</string>
+</resources>

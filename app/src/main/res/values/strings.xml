@@ -1,0 +1,9 @@
+<resources>
+    <!-- General -->
+    <string name="app_name" translatable="false">PartyTime</string>
+
+    <!-- Party screen -->
+    <string name="party_title">Party</string>
+    <string name="party_invite">Invited by:</string>
+    <string name="party_withyou">Come with you:</string>
+</resources>
